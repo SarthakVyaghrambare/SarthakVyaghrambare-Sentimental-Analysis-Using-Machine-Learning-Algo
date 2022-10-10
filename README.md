@@ -11,10 +11,10 @@ your spam filter or simply delete.
 # Dataset Used
 fraud_email_.csv
 # What are the required python packages?
-[]-pandas
-[]-nltk
-[]-string
-[]-stopwords
-[]-freqdist
-[]-wordcloud
+-pandas
+-nltk
+-string
+-stopwords
+-freqdist
+-wordcloud
 
