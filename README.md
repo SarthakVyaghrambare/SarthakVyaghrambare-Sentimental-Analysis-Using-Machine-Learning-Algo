@@ -28,4 +28,4 @@
 At the end by compairing the various methods of classification and regression I found that the accuracy of the MLP classifier has higher accuracy than the other Classificaion Or Regression model.
 # Project Youtube link 
 
-[![Sentimental-Analysis-Using-Machine-Learning-Algo](https://img.youtube.com/vi/Yh1uwf02_vA&t=112s/0.jpg)](https://www.youtube.com/watch?v=Yh1uwf02_vA&t=112s)
+[![22](https://user-images.githubusercontent.com/102195933/194913191-f3c9020f-752d-4372-9472-1d5b0c8921f3.jpg)](https://www.youtube.com/watch?v=Yh1uwf02_vA&t=112s)
