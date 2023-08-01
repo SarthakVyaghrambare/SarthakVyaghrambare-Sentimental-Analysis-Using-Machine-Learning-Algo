@@ -1,5 +1,5 @@
 # Project Title
-- Sentimental-Analysis-Using-Machine-Learning-Algo
+- Sentimental-Analysis-Of Fraud Emails
 # Problem Statement
 - Email, due to its inexpensive nature and ease of use, is a popular method for distributing fraudulent messages to potential victims.
 - Approximately 90% of all emails sent worldwide consist of spam, spoofed messages, or phishing attempts.
